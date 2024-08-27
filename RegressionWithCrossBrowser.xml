@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression ">
+    <test verbose="2" preserve-order="true"
+          name="Landing Page Test Suite">
+        <parameter name="OS" value="Windows"/>
+        <parameter name="Browser" value="chrome"/>
+        <parameter name="Environment" value="QA"/>
+        <parameter name="OS" value="Windows"/>
+        <classes>
+            <class name="com.magento.TestCases.LandingTest">
+            </class>
+            <class name="com.magento.TestCases.ForgotPasswordTest">
+            </class>
+            <class name="com.magento.TestCases.MainNavbarTest">
+            </class>
+            <class name="com.magento.TestCases.RegisterTest">
+            </class>
+        </classes>
+    </test>
+
+</suite>
