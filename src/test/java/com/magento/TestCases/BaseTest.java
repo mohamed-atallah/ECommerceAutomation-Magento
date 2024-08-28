@@ -17,6 +17,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.events.EventFiringDecorator;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
@@ -26,19 +27,18 @@ import java.time.Duration;
 public class BaseTest {
     // Initialize logger
     public Logger logger = LogManager.getLogger(BaseTest.class);
-
     protected WebDriver driver;
     // Private WebDriverWait instance to manage waits
     protected WebDriverWait wait;
-    LandingPage landingPage;
-    Header header;
-    LoginPage loginPage;
-    MainNavbar mainNavbar;
-    RegisterPage registerPage;
+    protected Header header;
+    protected LandingPage landingPage;
+    protected LoginPage loginPage;
+    protected MainNavbar mainNavbar;
+    protected RegisterPage registerPage;
     ForgotPasswordPage forgotPasswordPage;
     ProductHelper productHelper;
     String configFilePath = "src/test/resources/config.properties";
-    ConfigReader configReader = new ConfigReader(configFilePath);
+    protected ConfigReader configReader = new ConfigReader(configFilePath);
     private String BASE_URL = configReader.getProperty("baseUrl");
     private String SCREENSHOTS_DIR = "C:\\HD\\Selenium Automation Java\\MagentoStore\\Screenshots";
 
@@ -58,7 +58,6 @@ public class BaseTest {
         logger.info("Starting setup for tests.");
         logger.info("Browser: " + browser);
         logger.info("Environment: " + environment);
-
         initializeWebDriver(browser);
         // Initialize WebDriverWait with a 10-second timeout
         this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
@@ -131,5 +130,10 @@ public class BaseTest {
         return new WindowManager(driver);
     }
 
-
+    @AfterClass(alwaysRun = false)
+    public void tearDownClass() {
+        if (driver != null) {
+            driver.quit();
+        }
+    }
 }

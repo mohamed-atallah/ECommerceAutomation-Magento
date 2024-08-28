@@ -63,5 +63,14 @@ public class LoginTest extends BaseTest {
         Assert.assertEquals(driver.getCurrentUrl(), "https://magento.softwaretestingboard.com/customer/account/create/", "Url not correct");
     }
 
+    @Test(priority = 50)
+    public void testLoginSuccessfully() {
+        header.getLogingPage();
+        loginPage.setEmail(configReader.getProperty("email"));
+        loginPage.setPassword(configReader.getProperty("password"));
+        loginPage.login();
+        Assert.assertEquals(driver.getTitle(), "My Account", "Title not correctly");
+        Assert.assertEquals(driver.getCurrentUrl(), configReader.getProperty("baseUrl"), "Url not correct");
+    }
 
 }
