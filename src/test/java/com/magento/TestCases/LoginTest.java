@@ -1,6 +1,9 @@
 package com.magento.TestCases;
 
 import com.magento.DataProvider.LoginDataProvider;
+import io.qameta.allure.Description;
+import io.qameta.allure.Link;
+import io.qameta.allure.Owner;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -8,6 +11,9 @@ public class LoginTest extends BaseTest {
 
 
     @Test(dataProvider = "invalidLoginData", dataProviderClass = LoginDataProvider.class)
+    @Owner("Mohamed Atallah ")
+    @Link(name = "Login Page", url = "https://example.com")
+    @Description("Login with invalid email and password")
     public void testInvalidLogin(String email, String password) {
         // Use email and password from the data provider
         header.getLogingPage();

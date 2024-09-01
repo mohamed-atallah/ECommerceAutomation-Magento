@@ -1,382 +1,64 @@
-2024-08-28 14:31:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:31:13 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:31:13 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:31:13 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:31:15 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:31:15 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.84/win64/chromedriver-win64.zip
-2024-08-28 14:31:17 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
-2024-08-28 14:31:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:32:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:32:23 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:32:23 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:32:23 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:32:24 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:32:24 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:47:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:47:07 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:47:07 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:47:07 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:47:07 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:47:07 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:47:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:47:45 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:47:45 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:47:45 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:47:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:47:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:47:50 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 14:48:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:48:17 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:48:17 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:48:17 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:48:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:48:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:50:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:50:10 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:50:10 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:50:10 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:50:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:50:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:50:15 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 14:56:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 14:56:13 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 14:56:13 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 14:56:13 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 14:56:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 14:56:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 14:56:18 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 15:08:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:08:15 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:08:15 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:08:15 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:08:15 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:08:15 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:08:20 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 15:08:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:08:35 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:08:35 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:08:35 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:08:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:08:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:09:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:09:25 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:09:25 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:09:25 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:09:26 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:09:26 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:15:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:15:42 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:15:42 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:15:42 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:15:43 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:15:43 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:20:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:20:09 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:20:09 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:20:09 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:20:09 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:20:09 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:20:14 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:20:14 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:20:14 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:20:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:20:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:22:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:22:16 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:22:16 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:22:16 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:22:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:22:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:22:22 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:22:22 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:22:22 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:22:22 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:22:22 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:23:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:23:46 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:23:46 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:23:46 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:23:46 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:23:46 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:23:51 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:23:51 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:23:51 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:23:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:23:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:25:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:25:23 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:25:23 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:25:23 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:25:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:25:23 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:25:28 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 15:25:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:25:51 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:25:51 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:25:51 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:25:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:25:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:25:59 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:25:59 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:25:59 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:25:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:25:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:28:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:28:20 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:28:20 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:28:20 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:28:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:28:20 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:32:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:32:09 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:32:09 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:32:09 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:32:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:32:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:34:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:34:32 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:34:32 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:34:32 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:34:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:34:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:34:38 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:34:38 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:34:38 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:34:38 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:34:38 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:35:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:35:36 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:35:36 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:35:36 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:35:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:35:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:37:09 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:37:10 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:37:10 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:37:10 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:37:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:37:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:37:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:37:55 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:37:55 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:37:55 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:37:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:37:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:37:59 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:37:59 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:37:59 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:37:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:37:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:42:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:42:55 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:42:55 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:42:55 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:42:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:42:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 15:44:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:45:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 15:45:00 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 15:45:00 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 15:45:00 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 15:45:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 15:45:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:01:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:01:52 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:01:52 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:01:52 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:01:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:01:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:02:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:02:27 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:02:27 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:02:27 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:02:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:02:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:03:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:03:30 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:03:30 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:03:30 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:03:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:03:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:10:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:10:53 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:10:53 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:10:53 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:10:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:10:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:19:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:19:41 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:19:41 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:19:41 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:19:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:19:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:20:54 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:20:54 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:20:54 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:20:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:20:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:21:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:21:59 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:21:59 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:21:59 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:21:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:21:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:22:27 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:22:27 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:22:27 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:22:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:22:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:35:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:35:34 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:35:34 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:35:34 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:35:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:35:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:35:45 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:35:45 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:35:45 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:35:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:35:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:35:52 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:35:52 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:35:52 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:35:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:35:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:41:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:41:17 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 16:41:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:41:30 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 16:41:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:41:55 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 16:42:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:42:40 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 16:43:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:43:43 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 16:44:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:44:25 [main] WARN  org.testng.internal.Utils - The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
-2024-08-28 16:46:10 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:46:10 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:46:10 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:46:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:46:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 16:46:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 16:46:55 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 16:46:55 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 16:46:55 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 16:46:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 16:46:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 17:15:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 17:15:12 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 17:15:12 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 17:15:12 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 17:15:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 17:15:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 17:17:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 17:17:04 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 17:17:04 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 17:17:04 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 17:17:04 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 17:17:04 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 17:33:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 17:33:11 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 17:33:11 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 17:33:11 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 17:33:11 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 17:33:11 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 21:06:35 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 21:06:35 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 21:06:35 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 21:06:36 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 21:06:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
-2024-08-28 21:07:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\moham\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
-
-2024-08-28 21:07:37 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-08-28 21:07:37 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-08-28 21:07:37 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-08-28 21:07:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.84 (resolved driver for Chrome 128)
-2024-08-28 21:07:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.84\chromedriver.exe
+2024-09-01 20:42:26 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:42:26 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:42:26 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:42:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:42:28 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win64/chromedriver-win64.zip
+2024-09-01 20:42:31 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-01 20:42:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:42:42 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:42:42 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:42:42 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:42:42 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:42:42 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:43:00 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:43:00 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:43:00 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:43:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:43:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:43:43 [main] INFO  com.magento.TestCases.BaseTest - Test example started.
+2024-09-01 20:43:43 [main] INFO  com.magento.TestCases.BaseTest - Test example completed.
+2024-09-01 20:43:56 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:43:56 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:43:56 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:43:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:43:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:45:10 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:45:10 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:45:10 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:45:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:45:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:45:40 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:45:40 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:45:40 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:45:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:45:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:46:13 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:46:13 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:46:13 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:46:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:46:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:50:29 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:50:29 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:50:29 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:50:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:50:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 20:53:18 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 20:53:18 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 20:53:18 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 20:53:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 20:53:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 21:13:01 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 21:13:01 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 21:13:01 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 21:13:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 21:13:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 21:25:19 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 21:25:19 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 21:25:19 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 21:25:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 21:25:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-01 21:42:25 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-01 21:42:25 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-01 21:42:25 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-01 21:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-01 21:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
