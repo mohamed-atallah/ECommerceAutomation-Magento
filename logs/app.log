@@ -1,64 +1,116 @@
-2024-09-01 20:42:26 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:42:26 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:42:26 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:42:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:42:28 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win64/chromedriver-win64.zip
-2024-09-01 20:42:31 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
-2024-09-01 20:42:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:42:42 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:42:42 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:42:42 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:42:42 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:42:42 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:43:00 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:43:00 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:43:00 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:43:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:43:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:43:43 [main] INFO  com.magento.TestCases.BaseTest - Test example started.
-2024-09-01 20:43:43 [main] INFO  com.magento.TestCases.BaseTest - Test example completed.
-2024-09-01 20:43:56 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:43:56 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:43:56 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:43:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:43:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:45:10 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:45:10 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:45:10 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:45:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:45:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:45:40 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:45:40 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:45:40 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:45:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:45:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:46:13 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:46:13 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:46:13 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:46:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:46:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:50:29 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:50:29 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:50:29 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:50:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:50:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 20:53:18 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 20:53:18 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 20:53:18 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 20:53:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 20:53:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 21:13:01 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 21:13:01 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 21:13:01 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 21:13:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 21:13:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 21:25:19 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 21:25:19 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 21:25:19 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 21:25:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 21:25:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
-2024-09-01 21:42:25 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
-2024-09-01 21:42:25 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
-2024-09-01 21:42:25 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
-2024-09-01 21:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
-2024-09-01 21:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\muham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\moham\Dropbox\Automation Project\MagentoStore\RegressionWithCrossBrowser.xml
+
+2024-09-02 14:45:55 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2024-09-02 14:45:55 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-02 14:45:55 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-02 14:45:55 [main] INFO  com.magento.TestCases.BaseTest - Environment: QA
+2024-09-02 14:45:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 14:45:56 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.86/win64/chromedriver-win64.zip
+2024-09-02 14:45:59 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2024-09-02 14:45:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 14:49:35 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-02 14:49:35 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-02 14:49:35 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-02 14:49:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 14:49:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 14:50:59 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-02 14:50:59 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-02 14:50:59 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-02 14:50:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 14:50:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 14:54:52 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-02 14:54:52 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-02 14:54:52 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-02 14:54:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 14:54:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe

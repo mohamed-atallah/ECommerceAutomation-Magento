@@ -76,7 +76,7 @@ public class LoginTest extends BaseTest {
         loginPage.setPassword(configReader.getProperty("password"));
         loginPage.login();
         Assert.assertEquals(driver.getTitle(), "My Account", "Title not correctly");
-        Assert.assertEquals(driver.getCurrentUrl(), configReader.getProperty("baseUrl"), "Url not correct");
+        Assert.assertEquals(driver.getCurrentUrl(), configReader.getProperty("urlAfterLogin"), "Url not correct");
     }
 
 }
