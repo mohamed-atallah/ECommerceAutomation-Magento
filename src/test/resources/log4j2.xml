@@ -10,7 +10,7 @@
 
         <!-- Rolling File Appender -->
         <RollingFile name="FileAppender" fileName="logs/app.log"
-                     filePattern="$logs/app-%d{yyyy-MM-dd}.log.gz">
+                     filePattern="logs/app-%d{yyyy-MM-dd}.log.gz">
             <PatternLayout>
                 <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Pattern>
             </PatternLayout>
@@ -18,7 +18,7 @@
                 <TimeBasedTriggeringPolicy/>
                 <SizeBasedTriggeringPolicy size="10MB"/>
             </Policies>
-            <DefaultRolloverStrategy max="7"/>
+            <DefaultRolloverStrategy maxFiles="7"/>
         </RollingFile>
     </Appenders>
 

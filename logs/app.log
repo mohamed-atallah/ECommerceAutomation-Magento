@@ -114,3 +114,8 @@
 2024-09-02 14:54:52 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
 2024-09-02 14:54:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
 2024-09-02 14:54:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
+2024-09-02 15:00:00 [main] INFO  com.magento.TestCases.BaseTest - Starting setup for tests.
+2024-09-02 15:00:00 [main] INFO  com.magento.TestCases.BaseTest - Browser: chrome
+2024-09-02 15:00:00 [main] INFO  com.magento.TestCases.BaseTest - Environment: qa
+2024-09-02 15:00:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 128.0.6613.86 (resolved driver for Chrome 128)
+2024-09-02 15:00:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win64\128.0.6613.86\chromedriver.exe
